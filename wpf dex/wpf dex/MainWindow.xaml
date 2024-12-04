@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="dutch_button" Content="Button" HorizontalAlignment="Left" Margin="18,89,0,0" VerticalAlignment="Top" Height="30" Width="58"/>
+        <Button x:Name="Arthur_button" Content="Button" HorizontalAlignment="Left" Margin="18,143,0,0" VerticalAlignment="Top" Height="40" Width="58"/>
+        <Button x:Name="steve_button" Content="Button" HorizontalAlignment="Left" Margin="14,217,0,0" VerticalAlignment="Top" Height="29" Width="66"/>
+        <Image x:Name="steve" HorizontalAlignment="Left" Height="227" Margin="208,89,0,0" VerticalAlignment="Top" Width="192" Source="/steve.png"/>
+        <Image x:Name="Dutch" HorizontalAlignment="Left" Height="227" Margin="457,79,0,0" VerticalAlignment="Top" Width="202" Source="/dutch van.jpg" Stretch="Fill"/>
+        <Image x:Name="arthur" HorizontalAlignment="Left" Height="227" Margin="558,163,0,0" VerticalAlignment="Top" Width="192" Source="/aurthur(1).jpg" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="208,306,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
