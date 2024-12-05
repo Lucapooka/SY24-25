@@ -7,6 +7,204 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Rectangle x:Name="P11" HorizontalAlignment="Left" Height="29" Margin="90,60,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P12" HorizontalAlignment="Left" Height="29" Margin="133,60,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P14" HorizontalAlignment="Left" Height="29" Margin="218,60,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P16" HorizontalAlignment="Left" Height="29" Margin="303,60,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P13" HorizontalAlignment="Left" Height="29" Margin="175,60,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P15" HorizontalAlignment="Left" Height="29" Margin="261,60,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P10" HorizontalAlignment="Left" Height="29" Margin="47,60,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="P22" HorizontalAlignment="Left" Height="29" Margin="90,91,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,91,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,91,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,91,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,91,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,91,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P20" HorizontalAlignment="Left" Height="29" Margin="47,91,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,91,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P17" HorizontalAlignment="Left" Height="29" Margin="346,60,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P31" HorizontalAlignment="Left" Height="29" Margin="90,122,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,122,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,122,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,122,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,122,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,122,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P30" HorizontalAlignment="Left" Height="29" Margin="47,122,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="P41" HorizontalAlignment="Left" Height="29" Margin="90,152,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,152,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,152,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,152,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,152,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,152,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P40" HorizontalAlignment="Left" Height="29" Margin="47,152,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,153,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,122,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="p51" HorizontalAlignment="Left" Height="29" Margin="90,182,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,182,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,182,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,182,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,182,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,182,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P50" HorizontalAlignment="Left" Height="29" Margin="47,182,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="p61" HorizontalAlignment="Left" Height="29" Margin="90,213,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,213,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,213,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,213,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,213,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,213,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P60" HorizontalAlignment="Left" Height="29" Margin="47,213,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,213,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,182,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="p71" HorizontalAlignment="Left" Height="29" Margin="90,244,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="133,244,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,244,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,244,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,244,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,244,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P70" HorizontalAlignment="Left" Height="29" Margin="47,244,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="p81" HorizontalAlignment="Left" Height="29" Margin="90,274,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="p32" HorizontalAlignment="Left" Height="29" Margin="133,274,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,274,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,274,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,274,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,274,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P80" HorizontalAlignment="Left" Height="29" Margin="47,274,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,275,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,244,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="fill_1" HorizontalAlignment="Left" Height="29" Margin="723,91,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FF037322"/>
+        <Rectangle x:Name="brush_1" HorizontalAlignment="Left" Height="29" Margin="723,60,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FF080000"/>
+        <Rectangle x:Name="fill_3" HorizontalAlignment="Left" Height="29" Margin="723,153,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FFE0860A"/>
+        <Rectangle x:Name="fill_2" HorizontalAlignment="Left" Height="29" Margin="723,122,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FF3D02A0"/>
+        <Rectangle x:Name="fill_5" HorizontalAlignment="Left" Height="29" Margin="723,213,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="White"/>
+        <Rectangle x:Name="fill_4" HorizontalAlignment="Left" Height="29" Margin="723,182,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FF10B4D9"/>
+        <Rectangle x:Name="fill_7" HorizontalAlignment="Left" Height="29" Margin="723,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FFE23333"/>
+        <Rectangle x:Name="fill_6" HorizontalAlignment="Left" Height="29" Margin="723,244,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" Fill="#FF848484"/>
+        <Rectangle x:Name="p91" HorizontalAlignment="Left" Height="29" Margin="90,304,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="p92" HorizontalAlignment="Left" Height="29" Margin="133,304,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="218,304,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="303,304,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="175,304,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="261,304,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P90" HorizontalAlignment="Left" Height="29" Margin="47,304,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="P1" HorizontalAlignment="Left" Height="29" Margin="90,31,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P2" HorizontalAlignment="Left" Height="29" Margin="133,31,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P4" HorizontalAlignment="Left" Height="29" Margin="218,31,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P6" HorizontalAlignment="Left" Height="29" Margin="303,31,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P3" HorizontalAlignment="Left" Height="29" Margin="175,31,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P5" HorizontalAlignment="Left" Height="29" Margin="261,31,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P00" HorizontalAlignment="Left" Height="29" Margin="47,31,0,0" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" Fill="Black">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.201"/>
+                    <RotateTransform Angle="-0.176"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="P7" HorizontalAlignment="Left" Height="29" Margin="346,31,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="346,304,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P18" HorizontalAlignment="Left" Height="29" Margin="393,60,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,91,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,91,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle x:Name="P19" HorizontalAlignment="Left" Height="29" Margin="436,60,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,122,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,152,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,153,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,122,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,182,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,213,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,213,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,182,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,244,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,274,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,275,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,244,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="393,304,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P8" HorizontalAlignment="Left" Height="29" Margin="393,31,0,0" VerticalAlignment="Top" Width="43" Fill="Black"/>
+        <Rectangle x:Name="P9" HorizontalAlignment="Left" Height="29" Margin="436,31,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="29" Margin="436,304,0,0" VerticalAlignment="Top" Width="42" Fill="Black"/>
+
     </Grid>
 </Window>
